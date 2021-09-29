@@ -7,6 +7,6 @@ git log
 git remote add  origin  < link>
 
 
-git stag
+  ##git stag
 
 git diff --staged
