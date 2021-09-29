@@ -22,3 +22,6 @@ make sure that file is in add . (stage)
 git add .
 git rm <file_name>        // delete 
 git mv <filename> <newname>                // rename
+
+## remove file from tracking 
+git rm --chached <filename>
