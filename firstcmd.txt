@@ -1,0 +1,24 @@
+     ## git 
+ git init 
+git status
+git add .
+git log 
+
+git remote add  origin  < link>
+
+
+  ##git stag
+
+git diff --staged
+
+
+## commit
+git com
+mit -m 'upate'
+git commi -a -m 'directupdate'  >>>/// tracked file 
+
+          ##rename and delete
+make sure that file is in add . (stage)
+git add .
+git rm <file_name>        // delete 
+git mv <filename> <newname>                // rename
