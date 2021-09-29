@@ -13,16 +13,15 @@ git log --pretty=short
 
 
 
-git remote add  origin  < link>
-
-
   ##git stag
 
 git diff --staged
   ## unstage
 git restore --staged <filename>
-
-
+ 
+## restore from last commit 
+git checkout -- <filename>
+git chekcout -f 
 
 
 ## commit
@@ -42,4 +41,12 @@ git rm --chached <filename>
 ## put file in gitignore 
 then it will remove from untracked too
  
+
+
+     #remote 
+
+git remote add  origin  < link>
+
+### branch
+ git checkout -b <branchname>
 
