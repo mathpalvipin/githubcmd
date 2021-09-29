@@ -2,3 +2,17 @@
  git checkout -b <branchname>
 ### switch branch
 git checkout <branchname>
+
+##3 git merge
+git checkout master
+git merge <newbranch>
+
+git branch -v 
+git branch --merged  /////////alrady merge branch
+git branch --no-merged  /////////not merge branch
+git branch -d develop  .. gives errroe if branch  is not merge d now
+
+
+
+## push branch to github
+git push origin branchname:branchnameingithub  //plz same onboth
