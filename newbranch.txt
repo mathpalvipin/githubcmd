@@ -15,4 +15,8 @@ git branch -d develop  .. gives errroe if branch  is not merge d now
 
 
 ## push branch to github
+<<<<<<< HEAD
 git push origin branchname
+=======
+git push origin branchname:branchnameingithub  //plz same onboth
+>>>>>>> newbranch
