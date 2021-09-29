@@ -19,6 +19,9 @@ git remote add  origin  < link>
   ##git stag
 
 git diff --staged
+  ## unstage
+git restore --staged <filename>
+
 
 
 
