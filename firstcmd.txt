@@ -2,6 +2,11 @@
  git init 
 git status
 git add .
-gut log 
+git log 
 
 git remote add  origin  < link>
+
+
+git stag
+
+git diff --staged
